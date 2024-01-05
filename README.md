@@ -56,7 +56,7 @@ kubectl exec -it <pod-name> -- <command>
 kubectl cp <pod-name>:<path> <local-path>
 ```
 ### Architecture
-![alt text](https://github.com/AshankBekkam/kexer/blob/main/kexer-architecture.jpg?raw=true)
+![alt text](https://github.com/AshankBekkam/kexer/blob/main/kexer-arch.jpg?raw=true)
 
 ### Reverse Proxy
 
